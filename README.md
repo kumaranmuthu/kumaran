@@ -1,2 +1,0 @@
-# kumaran
-sample project
